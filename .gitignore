@@ -46,3 +46,9 @@ packrat/
 Network Trash Folder
 Temporary Items
 .apdisk
+summarySCC_PM25.rds
+*.RData
+*.Rhistory
+*.Rproj
+*.zip
+*.rds
