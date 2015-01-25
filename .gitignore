@@ -52,3 +52,5 @@ summarySCC_PM25.rds
 *.Rproj
 *.zip
 *.rds
+*.R
+*.R
